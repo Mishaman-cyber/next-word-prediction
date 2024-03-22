@@ -14,7 +14,7 @@ def file_to_sentence_list(file_path):
 
     return sentences
 
-file_path = '/pizza.txt'
+file_path = '/info.txt'
 text_data = file_to_sentence_list(file_path)
 
 tokenizer = Tokenizer()
