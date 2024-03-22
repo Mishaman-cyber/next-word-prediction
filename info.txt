@@ -1,0 +1,3 @@
+I am studying Bachelor of Vocation in Software Development at University of Delhi with a goal of becoming a Data Scientist and Machine Learning Engineer. I love to write articles in the technical niche. Along with this web development fascinates, and I love building web layouts. I chose University of Delhi for its vast opportunities in this dynamic city.
+With proficiency in Python programming and skills in Pandas, NumPy, and Matplotlib, I am passionate about leveraging technology for impactful solutions.
+I am constantly learning and fascinated by the potential of data to drive innovation. Join me in exploring the limitless potential of Data Science and Machine Learning for progress and innovation.
